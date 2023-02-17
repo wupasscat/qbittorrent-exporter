@@ -1,2 +1,1 @@
-# qbittorrent-exporter
-Unraid template for https://github.com/caseyscarborough/qbittorrent-exporter
+Images for https://github.com/wupasscat/unraid-templates
